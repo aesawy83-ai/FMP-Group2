@@ -53,11 +53,10 @@ The trained model weights (best.pt) are available here:
 
 ## Reproducibility Proof
 
-Last successful run: [Insert today's date]  
+Last successful run: [27/2/2026]  
 Runtime: Google Colab (T4 GPU)  
 Epochs: 50  
 Model: YOLOv8s  
-Ultralytics version: [paste version]
 Expected runtime: ~15–20 minutes
 
 ## Evidence
@@ -75,7 +74,4 @@ See:
 - `/docs/error_analysis.md`
 - `/docs/governance_checklist.md`
 
-  ## Model Weights
 
-Best model weights available at:
-[GitHub Release Link]
