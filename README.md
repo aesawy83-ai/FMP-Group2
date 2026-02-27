@@ -1,7 +1,5 @@
 # Facade Crack Detection using YOLOv8
-
 ## Problem Statement
-
 Facade cracks can indicate structural deterioration in buildings. 
 Manual inspection is time-consuming and subjective.
 
@@ -12,7 +10,7 @@ to support early-stage structural inspection workflows.
 Success criteria:
 - Achieve strong detection performance (mAP@0.5 ≥ 0.75)
 - Maintain reliable detection across lighting variations
-- 
+
 ## Dataset
 
 Source: Roboflow  
@@ -40,7 +38,6 @@ Final Performance:
 - Reliable detection of visible cracks
 - Minor misses on very thin hairline cracks
 
-- 
 ## Model Weights 
 The trained model weights (best.pt) are available here:
 [Download Model Weights](https://github.com/aesawy83-ai/FMP-Group2/releases/tag/%23M4U3))
