@@ -46,7 +46,7 @@ The trained model weights (best.pt) are available here:
 
 ## Reproduce in Google Colab
 
-1. Open `notebooks/02_train_eval.ipynb` in Colab.
+1. Open `notebooks/M4U3.ipynb` in Colab.
 2. Runtime → Change runtime type → GPU.
 3. Run all cells.
 4. Training outputs will be saved in `/runs/detect/`.
