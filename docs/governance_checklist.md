@@ -1,6 +1,6 @@
 # AECO Governance Checklist
 ## 1. Data Provenance
-* **Source:** [Where did the images come from? e.g., "Roboflow Universe
+* **Source:** "Roboflow Universe
 Public Dataset" or "Site Photos form Project X"]
 * **Date Collection:** [e.g., "June 2024"]
 * **Owner:** [Who owns the raw images?]
