@@ -22,7 +22,7 @@ Classes: crack
 ## Model Configuration
 
 Model: YOLOv8s  
-Epochs: 40  
+Epochs: 50  
 Image size: 640  
 Batch size: 16  
 Runtime: Google Colab (T4 GPU)
@@ -43,3 +43,39 @@ The trained model weights (best.pt) are available here:
 [Download Model Weights](https://github.com/aesawy83-ai/FMP-Group2/releases/tag/%23M4U3))
 
 ![PR Curve](results/curves/BoxPR_curve.png)
+
+## Reproduce in Google Colab
+
+1. Open `notebooks/02_train_eval.ipynb` in Colab.
+2. Runtime → Change runtime type → GPU.
+3. Run all cells.
+4. Training outputs will be saved in `/runs/detect/`.
+
+## Reproducibility Proof
+
+Last successful run: [Insert today's date]  
+Runtime: Google Colab (T4 GPU)  
+Epochs: 50  
+Model: YOLOv8s  
+Ultralytics version: [paste version]
+Expected runtime: ~15–20 minutes
+
+## Evidence
+
+Training curves: `/results/curves/`  
+Validation predictions: `/results/predictions_val/`  
+New image predictions: `/results/predictions_new/`
+
+## Governance & Limitations
+
+This model is intended for inspection assistance only.
+Human validation is required before structural decisions.
+
+See:
+- `/docs/error_analysis.md`
+- `/docs/governance_checklist.md`
+
+  ## Model Weights
+
+Best model weights available at:
+[GitHub Release Link]
