@@ -58,6 +58,7 @@ Last successful run: [27/2/2026]
 Runtime: Google Colab (T4 GPU)  
 Epochs: 50  
 Model: YOLOv8s  
+Classes: crack 
 Expected runtime: ~15–20 minutes
 
 ## Evidence
